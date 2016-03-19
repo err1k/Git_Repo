@@ -1,0 +1,5 @@
+C:\Users\er1k\Desktop\GIT_Repo\TestRepoProj\TestRepoProj\bin\Debug\TestRepoProj.exe
+C:\Users\er1k\Desktop\GIT_Repo\TestRepoProj\TestRepoProj\bin\Debug\TestRepoProj.pdb
+C:\Users\er1k\Desktop\GIT_Repo\TestRepoProj\TestRepoProj\obj\x86\Debug\TestRepoProj.csprojResolveAssemblyReference.cache
+C:\Users\er1k\Desktop\GIT_Repo\TestRepoProj\TestRepoProj\obj\x86\Debug\TestRepoProj.exe
+C:\Users\er1k\Desktop\GIT_Repo\TestRepoProj\TestRepoProj\obj\x86\Debug\TestRepoProj.pdb
