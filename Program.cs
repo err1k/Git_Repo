@@ -10,6 +10,8 @@ namespace TestRepoProj
             Console.WriteLine("Change");
             Console.WriteLine("Change2");
             Console.WriteLine("Change3");
+
+            Console.WriteLine("Change4");
             Console.ReadKey();
         }
     }
